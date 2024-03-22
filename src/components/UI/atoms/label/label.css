@@ -1,0 +1,18 @@
+.title-input {
+  font-size: 16px;
+  display: inline-block;
+  margin-bottom: 4px;
+  color: var(--letter-color);
+  width: 100%;
+}
+.no-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

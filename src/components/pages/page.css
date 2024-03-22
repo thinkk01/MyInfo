@@ -1,0 +1,8 @@
+section .form {
+  margin-top: 88px;
+  display: flex;
+  justify-content: center;
+}
+.w-665 {
+  max-width: 665px;
+}

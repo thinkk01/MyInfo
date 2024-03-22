@@ -1,0 +1,14 @@
+h1 {
+  max-width: 513px;
+  height: 48px;
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 500;
+}
+.form-description {
+  padding: 2px;
+}
+a {
+  color: var(--black-color);
+  font-weight: 400;
+}

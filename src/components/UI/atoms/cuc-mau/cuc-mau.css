@@ -1,0 +1,9 @@
+.cuc-mau {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  background-color: var(--primary-color);
+  top: 24px;
+  left: 24px;
+  border-radius: 50%;
+}
